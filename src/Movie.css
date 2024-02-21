@@ -1,0 +1,19 @@
+#search{
+   display: contents;
+  align-items: center;
+  width: 20rem;
+  height: 50px;
+  left: 30px;
+
+}
+.content{
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.mov{
+  background-color:darkkhaki;
+}
+
